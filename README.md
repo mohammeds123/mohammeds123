@@ -4,7 +4,7 @@
 
 ### Computer Science Student @ University of Calgary | Networking & Distributed Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammed--syed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-syed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammed--syed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/mohammed-syed](https://www.linkedin.com/in/syed-mohammed-m-867533219/))
 [![Email](https://img.shields.io/badge/Email-mohammed.syed3%40ucalgary.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.syed3@ucalgary.ca)
 [![Location](https://img.shields.io/badge/Calgary%2C%20AB-4B4B4B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
